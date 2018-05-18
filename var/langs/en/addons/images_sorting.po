@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::images_sorting"
+msgid "Product sorting by Images"
+msgstr "Product sorting by Images"
+
+msgctxt "Addons::description::images_sorting"
+msgid "This addon is sorting products by images."
+msgstr "This addon is sorting products by images."
+
+msgctxt "SettingsOptions::images_sorting::sort_in_admin_panel"
+msgid "Use sorting in Administration panel"
+msgstr "Use in Administration panel"
+
+msgctxt "SettingsOptions::images_sorting::unimaged_products"
+msgid "Products without Images"
+msgstr "What to do with products without Images"
+
+msgctxt "SettingsVariants::images_sorting::unimaged_products::hide"
+msgid "Hide"
+msgstr "Hide"
+
+msgctxt "SettingsVariants::images_sorting::unimaged_products::end"
+msgid "Put to the end"
+msgstr "Put to the end"
+
+msgctxt "SettingsTooltips::images_sorting::sort_in_admin_panel"
+msgid "In the Administration panel it will work only Sorting"
+msgstr "In the Administration panel it will work only Sorting. Products would not be hidden."

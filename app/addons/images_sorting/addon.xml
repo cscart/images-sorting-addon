@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>images_sorting</id>
+	<status>active</status>
+    <version>1.0</version>
+    <settings edition_type="ROOT,ULT:VENDOR">
+        <sections>
+            <section id="general">
+                <items>
+                    <item id="unimaged_products">
+                        <type>selectbox</type>
+                        <variants>
+                        	<item id="end"></item>
+                            <item id="hide"></item>
+                        </variants>
+                    </item>
+                    <item id="sort_in_admin_panel">
+                        <type>checkbox</type>
+                        <default_value>N</default_value>
+                    </item>
+                </items>
+            </section>
+        </sections>
+    </settings>
+    <priority>4294967294</priority>
+    <position>0</position>
+    <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
+    <default_language>en</default_language>
+</addon>

@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+
+msgctxt "Addons::name::images_sorting"
+msgid "Product sorting by Images"
+msgstr "Сортировка продуктов по изображению"
+
+msgctxt "Addons::description::images_sorting"
+msgid "This addon is sorting products by images."
+msgstr "Этот модуль сортирует товары исходя из наличия изображения."
+
+msgctxt "SettingsOptions::images_sorting::sort_in_admin_panel"
+msgid "Use sorting in Administration panel"
+msgstr "Применять для панели Администратора"
+
+msgctxt "SettingsOptions::images_sorting::unimaged_products"
+msgid "Products without Images"
+msgstr "Что делать с товарами без изображений"
+
+msgctxt "SettingsVariants::images_sorting::unimaged_products::hide"
+msgid "Hide"
+msgstr "Скрыть"
+
+msgctxt "SettingsVariants::images_sorting::unimaged_products::end"
+msgid "Put to the end"
+msgstr "Поместить в конец"
+
+msgctxt "SettingsTooltips::images_sorting::sort_in_admin_panel"
+msgid "In the Administration panel it will work only Sorting"
+msgstr "В панели Администратора будет работать только сортировка (перемещение в конец списка), товар скрываться не будет"
